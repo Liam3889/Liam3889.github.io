@@ -118,7 +118,6 @@
     <div id="message-container" class="message-container">
         <video autoplay loop muted>
             <source src="your-video.mp4" type="video/mp4">
-            Your browser does not support the video tag.
         </video>
         <div class="message">
             ❤️ Yay! I have a gift for you, one for today (food) and another for your shopping! ❤️<br>
